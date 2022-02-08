@@ -21,7 +21,7 @@ public class Principal {
 		finally {
 		System.out.println("Ingresa en el finally"); //esto se hace siempre 
 		}
-		
+		//hola soy Roberto
 	}
 
 }
