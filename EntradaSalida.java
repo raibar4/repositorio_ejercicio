@@ -8,6 +8,7 @@ import java.io.IOException;
 public class EntradaSalida {
 	public static void main(String[] args) {
 		
+		//Esto es un try (Comentario de Sergio)...
 		try {
 		String ruta="C:\\Users\\Roba\\Desktop\\Carpeta Trabajo Inicial\\salida.txt";
 		String contenido="Contenido de ejmplo \nsegunda prueba";
